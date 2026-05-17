@@ -8,8 +8,14 @@ Hey, I'm Kshitij Mittal 👋
 I build scalable web applications, SaaS platforms, and AI-powered tools.
 
 ---
+<p align="left">
+<a href="https://linkedin.com/in/kshitij-mittal-892598263" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 
+---
 ## 🚀 Tech Stack
 
 <p align="left">
