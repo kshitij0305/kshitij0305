@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Kshitij%20Mittal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50"/>
 </p>
-# Hey, I'm Kshitij Mittal 👋
+### Hey, I'm Kshitij Mittal 👋
 
 ### Full Stack Developer | MERN & Next.js Developer
 
@@ -21,6 +21,7 @@ I build scalable web applications, SaaS platforms, and AI-powered tools.
 ## 🚀 Featured Projects
 
 ### 🔹 [Overprompt](https://github.com/kshitij0305/Overprompt)
+
 AI Spend Audit Platform for analyzing AI subscriptions, workflow inefficiencies, and redundant tooling.
 
 🌐 Live Demo: https://your-demo-link.vercel.app
@@ -28,7 +29,9 @@ AI Spend Audit Platform for analyzing AI subscriptions, workflow inefficiencies,
 💻 Repository: https://github.com/kshitij0305/Overprompt
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vercel
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kshitij0305/Overprompt/main/assets/Screenshot%202026-05-17%20131614.png" width="850"/>
+</p>
 ---
 
 ### 🔹 [V.K Group Platform](https://github.com/kshitij0305/Vkgroup)
