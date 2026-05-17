@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Kshitij Mittal 👋
 
-<!--
-**kshitij0305/kshitij0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN & Next.js Developer
 
-Here are some ideas to get you started:
+I build scalable web applications, SaaS platforms, and AI-powered tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Docker
+
+---
+
+## 🛠 Featured Projects
+
+### Overprompt
+AI Spend Audit Platform for analyzing AI subscriptions and workflow inefficiencies.
+
+### V.K Group Platform
+Production-grade service platform with Razorpay integration.
+
+### Bookwyrms Abode
+Modern bookstore platform built using MERN stack.
+
+---
+
+## 📈 Current Focus
+
+- Building production-grade SaaS applications
+- Learning cloud & DevOps
+- Improving system design skills
+- Exploring AI integrations
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kshitij-mittal-892598263
+- Email: kshitijmittal0305@gmail.com
