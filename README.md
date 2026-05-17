@@ -6,16 +6,12 @@ I build scalable web applications, SaaS platforms, and AI-powered tools.
 
 ---
 
+
 ## 🚀 Tech Stack
 
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- Docker
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,docker,git,github,vscode,vercel" />
+</p>
 
 ---
 
