@@ -23,6 +23,10 @@ I build scalable web applications, SaaS platforms, and AI-powered tools.
 ### 🔹 [Overprompt](https://github.com/kshitij0305/Overprompt)
 AI Spend Audit Platform for analyzing AI subscriptions, workflow inefficiencies, and redundant tooling.
 
+🌐 Live Demo: https://your-demo-link.vercel.app
+
+💻 Repository: https://github.com/kshitij0305/Overprompt
+
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vercel
 
 ---
