@@ -37,6 +37,20 @@ Modern bookstore platform built using MERN stack.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitij0305&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij0305&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kshitij0305&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/kshitij-mittal-892598263
