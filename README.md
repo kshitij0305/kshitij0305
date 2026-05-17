@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Kshitij%20Mittal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50"/>
 </p>
-### Hey, I'm Kshitij Mittal 👋
+Hey, I'm Kshitij Mittal 👋
 
 ### Full Stack Developer | MERN & Next.js Developer
 
