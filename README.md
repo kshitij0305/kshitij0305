@@ -15,26 +15,26 @@ I build scalable web applications, SaaS platforms, and AI-powered tools.
 
 ---
 
-## 🛠 Featured Projects
+## 🚀 Featured Projects
 
-### Overprompt
-AI Spend Audit Platform for analyzing AI subscriptions and workflow inefficiencies.
+### 🔹 [Overprompt](https://github.com/kshitij0305/Overprompt)
+AI Spend Audit Platform for analyzing AI subscriptions, workflow inefficiencies, and redundant tooling.
 
-### V.K Group Platform
-Production-grade service platform with Razorpay integration.
-
-### Bookwyrms Abode
-Modern bookstore platform built using MERN stack.
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vercel
 
 ---
 
-## 📈 Current Focus
+### 🔹 [V.K Group Platform](https://github.com/kshitij0305/Vkgroup)
+Production-grade service platform with Razorpay payment integration and admin workflows.
 
-- Building production-grade SaaS applications
-- Learning cloud & DevOps
-- Improving system design skills
-- Exploring AI integrations
+**Tech Stack:** Next.js, Node.js, MongoDB, Razorpay
 
+---
+
+### 🔹 [Bookwyrms Abode](https://github.com/kshitij0305/bookwyrms-abode)
+Modern MERN bookstore platform with responsive UI and scalable backend workflows.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 ---
 
 ## 📊 GitHub Stats
