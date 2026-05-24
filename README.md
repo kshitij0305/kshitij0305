@@ -55,17 +55,17 @@ Modern MERN bookstore platform with responsive UI and scalable backend workflows
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kshitij0305&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kshitij0305&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij0305&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/kshitij-mittal-892598263
